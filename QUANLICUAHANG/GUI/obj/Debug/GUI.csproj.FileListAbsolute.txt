@@ -1,0 +1,124 @@
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\GUI.exe.config
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\GUI.exe
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\GUI.pdb
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\BUS.dll
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\CircularProgressBar.dll
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\DTO.dll
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.dll
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\PagedList.dll
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\WinFormAnimation.dll
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\DAL.dll
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\BUS.pdb
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\DTO.pdb
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\CircularProgressBar.xml
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.pdb
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.xml
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\PagedList.xml
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\WinFormAnimation.xml
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\bin\Debug\DAL.pdb
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Customer.Form_AddNewCustomer.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.HistorySales.Form_DetailSale.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Customer.UC_Customer.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Employee.Form_Account.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Employee.Form_EditAccount.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Employee.Form_AddnewEmployee.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Employee.Form_DetailEmployee.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Employee.Form_EditEmployee.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Employee.UC_Employee.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Home.UC_Home.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Login.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.MainForm.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_AddBrand.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_AddInformation.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_AddManufacturer.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_AddnewPhone.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_AddPublisher.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_AddStoke.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_Detail.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_EditProduct.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.UC_PhoneDetail.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Report.UC_Report.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Report.UC_Revenue.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Report.UC_TKSale.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.SalePhone.Form_Finish.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.SalePhone.UC_Sale.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Setting.Form_AddCode.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Setting.Form_AddDate.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Setting.Form_EditCode.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Setting.Form_EditDate.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.Setting.UC_Setting.resources
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.exe
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\GUI\obj\Debug\GUI.pdb
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\GUI.exe.config
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\GUI.exe
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\GUI.pdb
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\BUS.dll
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\CircularProgressBar.dll
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\DTO.dll
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.dll
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.WinForms.dll
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.Wpf.dll
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\PagedList.dll
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\WinFormAnimation.dll
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\DAL.dll
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\BUS.pdb
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\DTO.pdb
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\CircularProgressBar.xml
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.pdb
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.xml
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.WinForms.pdb
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.WinForms.xml
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.Wpf.pdb
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\LiveCharts.Wpf.xml
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\PagedList.xml
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\WinFormAnimation.xml
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\bin\Debug\DAL.pdb
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Customer.Form_AddNewCustomer.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.HistorySales.Form_DetailSale.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Customer.UC_Customer.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Employee.Form_Account.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Employee.Form_EditAccount.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Employee.Form_AddnewEmployee.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Employee.Form_DetailEmployee.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Employee.Form_EditEmployee.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Employee.UC_Employee.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Home.UC_Home.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Login.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.MainForm.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_AddBrand.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_AddInformation.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_AddManufacturer.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_AddnewPhone.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_AddPublisher.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_AddStoke.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_Detail.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.Form_EditProduct.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.PhoneDetail.UC_PhoneDetail.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Report.UC_Report.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Report.UC_Revenue.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Report.UC_TKSale.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.SalePhone.Form_Finish.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.SalePhone.UC_Sale.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Setting.Form_AddCode.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Setting.Form_AddDate.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Setting.Form_EditCode.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Setting.Form_EditDate.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.Setting.UC_Setting.resources
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.csproj.CopyComplete
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.exe
+E:\Documents\Tài liệu năm 3\LaptrinhWindows\1612126_LeQuocDung_FinalManagermentApp\Source\QUANLICUAHANG\GUI\obj\Debug\GUI.pdb

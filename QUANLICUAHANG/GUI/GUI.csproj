@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AD5240BC-025D-4692-870C-C88109B96D02}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="69024-bunifu_ui_v1.52, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\69024-bunifu_ui_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="ChreneLib">
+      <HintPath>..\..\..\ChreneLib.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar, Version=2.6.6823.24527, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.6.6823.24527\lib\net35-client\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.7.1\lib\net45\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="PagedList, Version=1.17.0.0, Culture=neutral, PublicKeyToken=abbb863e9397c5e1, processorArchitecture=MSIL">
+      <HintPath>..\packages\PagedList.1.17.0.0\lib\net40\PagedList.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="WinFormAnimation, Version=1.5.6298.3372, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.5.6298.3372\lib\net35-client\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CustomControl\DragControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HistorySales\Form_AddNewCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistorySales\Form_AddNewCustomer.Designer.cs">
+      <DependentUpon>Form_AddNewCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistorySales\Form_DetailSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistorySales\Form_DetailSale.Designer.cs">
+      <DependentUpon>Form_DetailSale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistorySales\UC_History.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="HistorySales\UC_History.Designer.cs">
+      <DependentUpon>UC_History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee\Form_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee\Form_Account.Designer.cs">
+      <DependentUpon>Form_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee\Form_EditAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee\Form_EditAccount.Designer.cs">
+      <DependentUpon>Form_EditAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee\Form_AddnewEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee\Form_AddnewEmployee.Designer.cs">
+      <DependentUpon>Form_AddnewEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee\Form_DetailEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee\Form_DetailEmployee.Designer.cs">
+      <DependentUpon>Form_DetailEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee\Form_EditEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee\Form_EditEmployee.Designer.cs">
+      <DependentUpon>Form_EditEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee\UC_Employee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Employee\UC_Employee.Designer.cs">
+      <DependentUpon>UC_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home\UC_Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home\UC_Home.Designer.cs">
+      <DependentUpon>UC_Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_AddBrand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_AddBrand.Designer.cs">
+      <DependentUpon>Form_AddBrand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_AddInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_AddInformation.Designer.cs">
+      <DependentUpon>Form_AddInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_AddManufacturer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_AddManufacturer.Designer.cs">
+      <DependentUpon>Form_AddManufacturer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_AddnewPhone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_AddnewPhone.Designer.cs">
+      <DependentUpon>Form_AddnewPhone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_AddPublisher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_AddPublisher.Designer.cs">
+      <DependentUpon>Form_AddPublisher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_AddStoke.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_AddStoke.Designer.cs">
+      <DependentUpon>Form_AddStoke.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_Detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_Detail.Designer.cs">
+      <DependentUpon>Form_Detail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_EditProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PhoneDetail\Form_EditProduct.Designer.cs">
+      <DependentUpon>Form_EditProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PhoneDetail\UC_PhoneDetail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PhoneDetail\UC_PhoneDetail.Designer.cs">
+      <DependentUpon>UC_PhoneDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report\UC_Report.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Report\UC_Report.Designer.cs">
+      <DependentUpon>UC_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\UC_Revenue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Report\UC_Revenue.Designer.cs">
+      <DependentUpon>UC_Revenue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\UC_TKSale.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Report\UC_TKSale.Designer.cs">
+      <DependentUpon>UC_TKSale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalePhone\Form_Finish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalePhone\Form_Finish.Designer.cs">
+      <DependentUpon>Form_Finish.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalePhone\UC_Sale.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SalePhone\UC_Sale.Designer.cs">
+      <DependentUpon>UC_Sale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setting\Form_AddCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setting\Form_AddCode.Designer.cs">
+      <DependentUpon>Form_AddCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setting\Form_AddDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setting\Form_AddDate.Designer.cs">
+      <DependentUpon>Form_AddDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setting\Form_EditCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setting\Form_EditCode.Designer.cs">
+      <DependentUpon>Form_EditCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setting\Form_EditDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Setting\Form_EditDate.Designer.cs">
+      <DependentUpon>Form_EditDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Setting\UC_Setting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Setting\UC_Setting.Designer.cs">
+      <DependentUpon>UC_Setting.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="HistorySales\Form_AddNewCustomer.resx">
+      <DependentUpon>Form_AddNewCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistorySales\Form_DetailSale.resx">
+      <DependentUpon>Form_DetailSale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistorySales\UC_History.resx">
+      <DependentUpon>UC_History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee\Form_Account.resx">
+      <DependentUpon>Form_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee\Form_EditAccount.resx">
+      <DependentUpon>Form_EditAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee\Form_AddnewEmployee.resx">
+      <DependentUpon>Form_AddnewEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee\Form_DetailEmployee.resx">
+      <DependentUpon>Form_DetailEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee\Form_EditEmployee.resx">
+      <DependentUpon>Form_EditEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee\UC_Employee.resx">
+      <DependentUpon>UC_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home\UC_Home.resx">
+      <DependentUpon>UC_Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhoneDetail\Form_AddBrand.resx">
+      <DependentUpon>Form_AddBrand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhoneDetail\Form_AddInformation.resx">
+      <DependentUpon>Form_AddInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhoneDetail\Form_AddManufacturer.resx">
+      <DependentUpon>Form_AddManufacturer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhoneDetail\Form_AddnewPhone.resx">
+      <DependentUpon>Form_AddnewPhone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhoneDetail\Form_AddPublisher.resx">
+      <DependentUpon>Form_AddPublisher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhoneDetail\Form_AddStoke.resx">
+      <DependentUpon>Form_AddStoke.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhoneDetail\Form_Detail.resx">
+      <DependentUpon>Form_Detail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhoneDetail\Form_EditProduct.resx">
+      <DependentUpon>Form_EditProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PhoneDetail\UC_PhoneDetail.resx">
+      <DependentUpon>UC_PhoneDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report\UC_Report.resx">
+      <DependentUpon>UC_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\UC_Revenue.resx">
+      <DependentUpon>UC_Revenue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\UC_TKSale.resx">
+      <DependentUpon>UC_TKSale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalePhone\Form_Finish.resx">
+      <DependentUpon>Form_Finish.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalePhone\UC_Sale.resx">
+      <DependentUpon>UC_Sale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting\Form_AddCode.resx">
+      <DependentUpon>Form_AddCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting\Form_AddDate.resx">
+      <DependentUpon>Form_AddDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting\Form_EditCode.resx">
+      <DependentUpon>Form_EditCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting\Form_EditDate.resx">
+      <DependentUpon>Form_EditDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Setting\UC_Setting.resx">
+      <DependentUpon>UC_Setting.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{56808e19-b561-4e8a-8823-c0bae87efa09}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{5d55cee7-f2f6-4b56-9d5f-a0062fdcd0a0}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_quit_37278.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-username.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-login-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon1_burned.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon1_burned.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-male-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-male-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-male-filled-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-android-filled-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-page-filled-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-user-male-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-shopping-cart-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-increase-filled-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-gears-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-login-filled-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-collapse-filled-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-questionnaire-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-market-square-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-market-square-filled-40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-buy-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-refresh-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-new-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-new-company-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-new-product-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-image-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-about-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-error-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-discount-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-sale-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-employee-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-name-tag-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-contacts-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-order-history-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-rent-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-buy-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-shutdown-filled-50.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

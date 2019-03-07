@@ -1,0 +1,11 @@
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\BUS\bin\Debug\BUS.dll
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\BUS\bin\Debug\BUS.pdb
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\BUS\bin\Debug\DAL.dll
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\BUS\bin\Debug\DTO.dll
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\BUS\bin\Debug\DAL.pdb
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\BUS\bin\Debug\DTO.pdb
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\BUS\obj\Debug\BUS.dll
+C:\Users\LÊQUỐCDŨNG\Desktop\QLCH\QUANLICUAHANG\BUS\obj\Debug\BUS.pdb
